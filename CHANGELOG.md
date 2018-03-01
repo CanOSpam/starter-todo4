@@ -1,0 +1,38 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+
+## [1.3.0] - 2-18-02-09
+### Added
+- Added Maintenance controller
+- Improved maintenance controller
+
+
+## [1.2.0] - 2018-02-09
+### Added
+- Added Views controller
+- Added secondary template
+
+## [1.1.0] - 2018-02-09
+### Added
+- Markdown parser
+- Help Wanted page
+- Jobs listings
+
+## [1.1.0] - 2018-02-09
+### Added
+- New homepage
+- Task list
+
+## [1.0.0] - 2018-02-09
+### Added
+- Task Model
+- Model auto-loading
+
+## [0.1.0] - 2018-02-09
+### Added
+- Changelog
